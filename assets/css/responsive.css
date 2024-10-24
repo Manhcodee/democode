@@ -392,6 +392,27 @@
     .category-bot__link {
         width: 13.5rem;
     }
+
+    .category-bot__croll {
+        display: none;
+    }
+
+    .category-bot__croll-left {
+        display: none;
+    }
+
+    .header-nav__text {
+        font-size: 1.6rem;
+    }
+
+    .background__container {
+        width: 350px;
+        right: 35px;
+    }
+
+    .header-login {
+        height: 60px;
+    }
 }   
 
 @media (min-width: 1024px) and (max-width: 1239px) {

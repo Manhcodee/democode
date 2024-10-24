@@ -10,6 +10,7 @@ p {
 
 .app__container.app__container-infor {
     padding: 0;
+    margin-top: 11rem;
 }
 
 .full-cagegory-top {
@@ -1277,6 +1278,7 @@ p {
     border-radius: 2px;
     font-size: 1.6rem;
     position: relative;
+    cursor: pointer;
 }
 
 .full-detail-rg-tick-rg::before {
